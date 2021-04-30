@@ -1,0 +1,75 @@
+.theme-base-08 .sidebar,
+.theme-base-08 .sidebar-toggle:active,
+.theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #057968;
+}
+.theme-base-08 .container a,
+.theme-base-08 .sidebar-toggle,
+.theme-base-08 .related-posts li a:hover {
+  color: #07b69c;
+}
+
+.quotable {
+  background-color: #faf7d3;
+}
+
+table.dataframe {
+  font-size: 0.6em;
+  text-align: left;
+}
+
+code, pre {
+  font-size: 0.6em;
+}
+
+#mc_embed_signup {
+  background: #edf8f3;
+  clear:left;
+  font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+}
+
+#mc_embed_signup .button {
+  background-color: #45b67f;
+  height: 40px;
+  font-size: 16px;
+}
+
+#mc_embed_signup .button:hover {
+  background-color: #057968;
+}
+
+#mc_embed_signup form {
+  // padding: 10px 0 10px 0;
+}
+
+#mc_embed_signup .mc-field-group input {
+  width: 60%;
+  font-family: 'Avenir Next', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+.page, .post {
+  margin-bottom: 1.5em;
+}
+
+.smaller-font {
+  font-size: 0.9em;
+}
+
+.center-image
+{
+  margin: 0 auto;
+  display: block;
+}
+
+.center-text
+{
+  text-align:center;
+}
+
+.footnotes {
+  font-size: 10px;
+  line-height: 1;
+}
+
